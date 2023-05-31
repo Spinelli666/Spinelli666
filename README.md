@@ -2,10 +2,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spinelli666&bg_color=0d1117&color=9400D3&line=9932CC&point=A020F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Spinelli666&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&_color=9400D3&text_color=9400D3&bg_color=0d1117" alt="Bernardo Gonçalves Spinelli Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinelli666&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117" />
-</div>
+
 
 <div align="center"> 
 <a href="https://www.instagram.com/bernardo_gsm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
