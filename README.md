@@ -41,5 +41,3 @@
   <div align="center">
   <img align="center" src="https://media.tenor.com/qilzKofCsMcAAAAC/spike-spiegel-eating.gif">
 </div> 
-  
-![Snake animation](https://github.com/Spinelli666/Spinelli666/blob/output/github-contribution-grid-snake.svg)]
