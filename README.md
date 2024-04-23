@@ -14,7 +14,7 @@
     <p>⚡  Hobbies: Reading, playing video games, RPGs and practicing Jiu-Jitsu</p>
     <h3>Contact me:</h3>
     <a href="mailto:bernardospinelli@hotmail.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=microsoftoutlook"/>
+        <img src="https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=microsoftoutlook" target="_blank"/>
     </a>
     <a href="https://www.linkedin.com/in/bernardo-gonçalves-spinelli-martins-18560b269/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
