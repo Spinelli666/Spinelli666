@@ -97,6 +97,7 @@
     <tr>
       <td align="center">Markdown</td>
       <td align="center">Photoshop</td>
+      <td align="center">Docker</td>
     </tr>
     <tr>
        <td align="center" width="96">
@@ -104,6 +105,9 @@
       </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="icon" />
+      </td>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="icon" />
       </td>
     </tr>
     </table>
