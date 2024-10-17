@@ -63,21 +63,15 @@
       </td>
     </tr>
     <tr>
-      <td align="center">MySQL</td>
-      <td align="center">Django</td>
       <td align="center">Git</td>
       <td align="center">Github</td>
       <td align="center">Figma</td>
       <td align="center">VS Code</td>
       <td align="center">PowerShell</td>
+      <td align="center">Markdown</td>
+      <td align="center">Photoshop</td>
     </tr>
     <tr>
-       <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-      </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
       </td>
@@ -93,19 +87,17 @@
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" alt="icon" />
       </td>
-    </tr>
-    <tr>
-      <td align="center">Markdown</td>
-      <td align="center">Photoshop</td>
-      <td align="center">Docker</td>
-    </tr>
-    <tr>
-       <td align="center" width="96">
+             <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="icon" />
       </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="icon" />
       </td>
+    </tr>
+    <tr>
+      <td align="center">Docker</td>
+    </tr>
+    <tr>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="icon" />
       </td>
@@ -120,10 +112,6 @@
 
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Spinelli666&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Spinelli666&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
-</p>
-
-<p align="center">
 
 </p>
 
