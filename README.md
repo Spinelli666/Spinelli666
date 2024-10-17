@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinelli666&layout=compact&hide_border=true&title_color=259076&text_color=97CECB&bg_color=0C1014" />
+
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spinelli666&bg_color=0C1014&color=259076&line=259076&point=97CECB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
