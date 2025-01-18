@@ -63,6 +63,7 @@
       </td>
     </tr>
     <tr>
+      <td align="center">Node.js</td>
       <td align="center">Git</td>
       <td align="center">Github</td>
       <td align="center">Figma</td>
