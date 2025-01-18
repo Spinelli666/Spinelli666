@@ -10,7 +10,7 @@
   <div align="left">
     <p>🌍  I'm based in Rio de Janeiro</p>
     <p>🖥️  Computer Science student, working in a research laboratory, developing projects as Full-Stack and learning DataScience</p>
-    <p>🌱  I’m currently learning <b>PYTHON</b></p> 
+    <p>🌱  I’m currently learning <b>DJANGO</b></p> 
     <p>⚡  Hobbies: Reading, playing video games, RPGs and practicing Jiu-Jitsu</p>
     <h3>Contact me:</h3>
     <a href="mailto:bernardospinelli@hotmail.com.br" target="_blank">
@@ -34,10 +34,10 @@
       <td align="center">C#</td>
       <td align="center">JavaScript</td>
       <td align="center">Python</td>
+      <td align="center">React</td>
       <td align="center">HTML</td>
       <td align="center">CSS</td>
       <td align="center">Bootstrap</td>
-      <td align="center">Node.js</td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -50,6 +50,9 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+      </td>
+      <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="icon" />
       </td>
       <td align="center" width="96">
@@ -57,9 +60,6 @@
       </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="icon" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="icon" />
       </td>
     </tr>
     <tr>
@@ -69,9 +69,11 @@
       <td align="center">VS Code</td>
       <td align="center">PowerShell</td>
       <td align="center">Markdown</td>
-      <td align="center">Photoshop</td>
     </tr>
     <tr>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="icon" />
+      </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
       </td>
@@ -90,14 +92,15 @@
              <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="icon" />
       </td>
-      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="icon" />
-      </td>
     </tr>
     <tr>
+      <td align="center">Photoshop</td>
       <td align="center">Docker</td>
     </tr>
     <tr>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="icon" />
+      </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="icon" />
       </td>
