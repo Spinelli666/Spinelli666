@@ -35,9 +35,9 @@
       <td align="center">JavaScript</td>
       <td align="center">Python</td>
       <td align="center">React</td>
-      <td align="center">HTML</td>
-      <td align="center">CSS</td>
-      <td align="center">Bootstrap</td>
+      <td align="center">Docker</td>
+      <td align="center">MySQL</td>
+      <td align="center">Github</td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -53,6 +53,29 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
       </td>
       <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+      </td>
+      <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+      </td>
+      <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Git</td>
+      <td align="center">HTML</td>
+      <td align="center">CSS</td>
+      <td align="center">Bootstrap</td>
+      <td align="center">Node.js</td>
+      <td align="center">Figma</td>
+      <td align="center">PowerShell</td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
+      </td>
+      <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="icon" />
       </td>
       <td align="center" width="96">
@@ -61,53 +84,30 @@
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="icon" />
       </td>
-    </tr>
-    <tr>
-      <td align="center">Node.js</td>
-      <td align="center">Git</td>
-      <td align="center">Github</td>
-      <td align="center">Figma</td>
-      <td align="center">VS Code</td>
-      <td align="center">PowerShell</td>
-      <td align="center">Markdown</td>
-    </tr>
-    <tr>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="icon" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
       </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="icon" />
       </td>
       <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" alt="icon" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Markdown</td>
+      <td align="center">VS Code</td>
+      <td align="center">Photoshop</td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="icon" />
+      </td>
+      <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="icon" />
       </td>
       <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" alt="icon" />
-      </td>
-             <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="icon" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Photoshop</td>
-      <td align="center">Docker</td>
-      <td align="center">MySQL</td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="icon" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
       </td>
     </tr>
     </table>
