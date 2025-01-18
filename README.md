@@ -97,13 +97,17 @@
     <tr>
       <td align="center">Photoshop</td>
       <td align="center">Docker</td>
+      <td align="center">MySQL</td>
     </tr>
     <tr>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="icon" />
       </td>
       <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="icon" />
+         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+      </td>
+      <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
       </td>
     </tr>
     </table>
