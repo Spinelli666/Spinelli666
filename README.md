@@ -10,7 +10,7 @@
   <div align="left">
     <p>🌍  I'm based in Rio de Janeiro</p>
     <p>🖥️  Computer Science student, working in a research laboratory, developing projects as Full-Stack and learning DataScience</p>
-    <p>🌱  I’m currently learning <b>NEXT.JS</b></p> 
+    <p>🌱  I'm currently writing my <b>STUDY NOTEBOOK</b></p> 
     <p>⚡  Hobbies: Reading, playing video games, RPGs and practicing Jiu-Jitsu</p>
     <h3>Contact me:</h3>
     <a href="mailto:bernardospinelli@hotmail.com.br" target="_blank">
